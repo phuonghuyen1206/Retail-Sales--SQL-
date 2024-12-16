@@ -1,0 +1,48 @@
+EmployeeID,Extension,EmployeeName,Hire Date,Office,Reports To,Title,Year Salary
+EMP1,501,Rock Roll,34608,5,4,Sales Representative,61000
+EMP2,101,Elvis Presley,34226,1,,President,80000
+EMP3,102,Rob Carsson,34608,1,4,Sales Representative,63000
+EMP4,301,Joan Callins,34580,3,2,Sales Manager,70000
+EMP5,302,Ingrid Hendrix,34989,3,4,Sales Representative,61300
+EMP6,401,Lennart Skoglund,34351,4,4,Sales Representative,61200
+EMP7,201,Tom Lindwall,35025,2,4,Sales Representative,61000
+EMP8,202,Leif Shine,34398,2,2,Sales Coordinator,65000
+EMP9,103,Helen Brolin,34745,1,4,Sales Representative,60000
+EMP19,222,David Letterman,34252,2,8,Product Manager,55500
+EMP20,333,John Cleaves,34610,3,8,Product Manager,55000
+EMP21,444,Miro Takako,34752,4,8,Product Manager,55000
+EMP22,555,Binh Protzmann,34399,5,8,Product Manager,56000
+EMP23,200,Cezar Sandu,34387,2,19,Systems Manager,51000
+EMP24,200,Cindy Crawford,34858,2,19,Systems Manager,50400
+EMP25,200,James Bond,34886,2,19,Systems Manager,50000
+EMP26,200,John Doe,35278,2,19,Systems Manager,51600
+EMP27,500,Mario Kaddafi,34490,5,22,Systems Manager,51300
+EMP28,500,Paul Dupont,34736,5,22,Systems Manager,51200
+EMP29,500,Sven Svensson,35093,5,22,Storeman,51000
+EMP30,500,Ira Baumel,35430,5,22,Storeman,50200
+EMP31,500,Keith Helmkey,35520,5,22,Storeman,50200
+EMP32,300,Rolf Wesenlund,35275,3,20,Storeman,50300
+EMP33,300,Ann Lindquist,35075,3,20,Storeman,50100
+EMP34,300,Bill Yang,35441,3,20,Storeman,50500
+EMP35,300,Charles Ingvar Jönsson,35430,3,20,Storeman,50000
+EMP36,300,Jacques Clouseau,35644,3,20,Storeman,51000
+EMP37,400,Jerry Tessel,34913,4,21,Network Manager,52000
+EMP38,400,John Lemon,34944,4,21,Network Manager,50000
+EMP39,400,Marcus Salvatori,35071,4,21,Storeman,51000
+EMP40,400,Olivier Simenon,35430,4,21,Storeman,55000
+EMP41,400,Sunil Gupta,35434,4,21,Storeman,50000
+EMP42,104,Östen Ärlig,34692,1,3,Account Manager,51000
+EMP43,203,Bob Park,34616,2,7,Account Manager,50000
+EMP44,204,Clark Kent,34365,2,7,Account Manager,55000
+EMP45,303,Joe Cheng,34913,3,5,Account Manager,52000
+EMP46,304,Kaya Alpan,35085,3,5,Account Manager,51000
+EMP47,402,Michelle Tyson,34731,4,6,Account Manager,50000
+EMP48,403,Ricardo Gucci,35065,4,6,Account Manager,47600
+EMP49,,Steve Cioazzi,34700,1,2,Operator/Clerk,47500
+EMP50,,Kenneth Finley,34700,2,8,Operator/Clerk,45600
+EMP51,,Lucky Luke,35433,3,4,Operator/Clerk,45000
+EMP52,,Mike Ashkenaz,35399,1,42,Account Manager,49500
+EMP53,,Richard Ranieri,35437,2,23,Account Manager,49500
+EMP54,,Sabrina Richards,35158,3,32,Account Manager,49500
+EMP55,,Sehoon Daw,35399,4,37,Account Manager,49500
+EMP161,,Stefan Lind,35061,5,27,Account Manager,49500

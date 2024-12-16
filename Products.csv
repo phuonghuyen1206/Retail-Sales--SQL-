@@ -1,0 +1,78 @@
+ProductID,CategoryID,Product,SupplierID
+1,CTG1451,Lenin Jeansshorts,1
+2,CTG1451,Mr X Trousers,1
+3,CTG1452,Chantell Shirt,1
+4,CTG1452,Oyaki Kimono,2
+5,CTG1451,O-Man Underwear,2
+6,CTG1452,Shagall Socks,3
+7,CTG1457,Conserve Shoes,3
+8,CTG1452,Tuxedo,3
+9,CTG1456,Fuji Boots,4
+10,CTG1458,Sapporoo Gloves,4
+11,CTG1451,Desperado Jeans,5
+12,CTG1454,Tiny Winy Hot Bikini,5
+13,CTG1458,Aino Shoes,6
+14,CTG1457,Kool Sunglasses,6
+15,CTG1452,Sumi Underwear,6
+16,CTG1453,Wimbledon T-Shirt,7
+17,CTG1456,TieBreak Tennis shoes,7
+18,CTG1458,Deuce shirt,7
+19,CTG1453,Squash Shorts,8
+20,CTG1453,Tennis Suit,8
+21,CTG1453,Basket Shoes,8
+22,CTG1455,Ravellis Träskor,9
+23,CTG1455,DSW,9
+24,CTG1451,Samba Socker  Socks,10
+25,CTG1453,Basket Vest,11
+26,CTG1453,Bike Helmet,11
+27,CTG1453,Tracksuit,11
+28,CTG1457,RDL Suit,12
+29,CTG1456,Davenport,12
+30,CTG1458,Baby Dark Lounge Suit,13
+31,CTG1454,Rossi Bermuda Shorts,14
+32,CTG1454,Rossi Bikkini,14
+33,CTG1453,Car Boots,15
+34,CTG1454,Baywatch Bikkini,16
+35,CTG1454,LA. Shorts,16
+36,CTG1458,Mehmet-Tröja,17
+37,CTG1458,Mehmet-Skor,17
+38,CTG1452,Le Baby Dress,18
+39,CTG1452,Terence Top,18
+40,CTG1458,Duck Trousers,19
+41,CTG1458,Duck Shirt,19
+42,CTG1455,Balett Shoes,20
+43,CTG1454,Summer Shorts,20
+44,CTG1452,Okkaba Skin Jackets,20
+45,CTG1456,Danske Treshoe,21
+46,CTG1458,Rodbye Troje,21
+47,CTG1456,Lundenhagen Boots,22
+48,CTG1456,Root Boot,22
+49,CTG1453,Finnish Sport Blades,23
+50,CTG1453,Finnish Swimsuit,23
+51,CTG1456,Snake Boots,24
+52,CTG1455,Small Crocodile Boots,24
+53,CTG1452,Jumpin Jack Flash Dress,24
+54,CTG1453,Patamonia Fleece Jacket,25
+55,CTG1453,Feiss Fleece Trousers,25
+56,CTG1455,High Heels Shoes,26
+57,CTG1455,Burned Rubber Shoes,26
+58,CTG1458,Ga-Ga Dress,27
+59,CTG1453,Rasta WCT,28
+60,CTG1453,Game Over T-Shirt,28
+61,CTG1453,Adihash Running Shoe,29
+62,CTG1453,Sheat Shoes,29
+63,CTG1452,Serve-Shirt,7
+64,CTG1455,WFS shoes,12
+65,CTG1452,Stretch oui-pants,2
+66,CTG1452,Langoste Shirt,2
+67,CTG1452,X-Dress,16
+68,CTG1453,Cap,8
+69,CTG1453,Racing Truck  Socks,15
+70,CTG1451,US-Master Jeans,7
+71,CTG1451,Atles Lussekofta,15
+72,CTG1454,Rossi Shorts,14
+73,CTG1458,Mehmet-Napp,17
+74,CTG1457,Nikee Running Shoes,4
+75,CTG1451,Bow tie,12
+76,CTG1452,Minnki Pälsii,23
+77,CTG1452,Skirt,12
